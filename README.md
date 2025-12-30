@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 I’m a **Flutter Developer** with 5+ years of experience creating cross-platform applications for mobile, web, and desktop. My expertise includes:  
-- **BLoC State Management**  
+- **BLoC, Riverpod, Provider State Management**
 - **Clean Architecture**  
 - **Performance Optimization**  
 - **Test-Driven Development**  
